@@ -1,10 +1,18 @@
 #include <iostream>
 
 #include "FigureClass.h"
+#include "Triangle.h"
+#include "Quadrangle.h"
+#include "RectangularTriangle.h"
+#include "IsoscelesTriangle.h"
+#include "EqualateralTriangle.h"
+#include "Parallelogram.h"
+#include "Rectangle.h"
+#include "Rhomb.h"
+#include "Square.h"
 
 int main()
 {
-	Figure figure;
 	Triangle triangle;
 	Quadrangle quadrangle;
 	RectangularTriangle rectangularTriangle;
